@@ -4,7 +4,7 @@ info:
   description: API for user login
   version: 1.0.0
 servers:
-  - url: https://gs.com
+  - url: https://bb.gs.com
 paths:
   /login:
     post:
